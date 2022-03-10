@@ -1,0 +1,19 @@
+body{
+    margin: 5%;
+    word-break: break-all;
+}
+
+p{
+    margin: 0;
+    display: inline;
+}
+
+
+b:hover {
+    font-weight: 700;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+
